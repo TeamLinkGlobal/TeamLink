@@ -1,4 +1,4 @@
-🌍 Project Name – Fullstack Application
+🌍 **TeamLink**– Fullstack Application
 
 A fullstack application consisting of:
 
