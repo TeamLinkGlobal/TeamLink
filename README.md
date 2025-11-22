@@ -45,3 +45,20 @@ cd project-name
 - frontend: web app development  
 - backend: API and server logic  
 - mobile: mobile app development
+
+
+Core Team & Roles
+- Project Lead
+- Team Development Coordinator
+- Backend Developers
+- Frontend Developers
+- Full-Stack Developers
+- Mobile Developers
+- UI/UX designers
+- Business Dev/ Finance / Research
+- Content Creators
+- Social Media Managers
+- Community Managers
+- Program Coordinators
+- Creative/Brand Designers
+QA/Testers
